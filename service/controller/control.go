@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Misaka-blog/XrayR/api"
-	"github.com/Misaka-blog/XrayR/app/mydispatcher"
+	"github.com/demo2099/xrayplus/api"
+	"github.com/demo2099/xrayplus/app/mydispatcher"
 	"github.com/xtls/xray-core/common/protocol"
 	"github.com/xtls/xray-core/core"
 	"github.com/xtls/xray-core/features/inbound"
